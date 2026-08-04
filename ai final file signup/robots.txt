@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ailearnerhub.netlify.app/sitemap.xml
