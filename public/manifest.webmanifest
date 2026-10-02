@@ -1,0 +1,13 @@
+{
+  "name": "AI Learner Hub GrowthOS",
+  "short_name": "GrowthOS",
+  "description": "Plan. Create. Publish. Measure. Grow.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF7F0",
+  "theme_color": "#F97316",
+  "icons": [
+    { "src": "/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

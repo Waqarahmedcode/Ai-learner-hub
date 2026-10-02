@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">AI Learner Hub</title>
+  <desc id="desc">Orange AI Learner Hub mark</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="35%" r="70%"><stop offset="0" stop-color="#fffaf3"/><stop offset="1" stop-color="#f0e5d7"/></radialGradient>
+    <linearGradient id="orange" x1="20%" y1="10%" x2="80%" y2="90%"><stop stop-color="#ffad4d"/><stop offset=".45" stop-color="#ff7412"/><stop offset="1" stop-color="#d94c08"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#6e2a0b" flood-opacity=".28"/></filter>
+  </defs>
+  <circle cx="256" cy="256" r="250" fill="url(#bg)" stroke="#d7c8b7" stroke-width="4"/>
+  <circle cx="256" cy="215" r="137" fill="url(#orange)" stroke="#ffcf90" stroke-width="7" filter="url(#shadow)"/>
+  <circle cx="256" cy="215" r="125" fill="none" stroke="#fff3dd" stroke-opacity=".7" stroke-width="3"/>
+  <text x="256" y="257" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="125" letter-spacing="-12" fill="#fffdf9" stroke="#e9e4dc" stroke-width="3" paint-order="stroke">AI</text>
+  <text x="256" y="388" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="30" letter-spacing="7" fill="#302a26">LEARNER HUB</text>
+  <path d="M122 414h92M298 414h92" stroke="#e86b19" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="256" cy="414" r="6" fill="#e86b19"/>
+</svg>
